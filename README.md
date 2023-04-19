@@ -33,19 +33,19 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [x] :coffee: Break
 - [x] GitHub Actions
-- [ ] Types of Actions
-- [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
-- [ ] Typescript and composite actions
-- [ ] Sharing and releasing actions
-- [ ] Using the GitHub API and Octokit
-- [ ] Job descriptions
+- [x] Types of Actions
+- [x] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
+- [x] Typescript and composite actions
+- [x] Sharing and releasing actions
+- [x] Using the GitHub API and Octokit
+- [x] Job descriptions
 
 ### Day 2
-- [ ] Introduction
-- [ ] Actions for CI/CD
-- [ ] Permissions for GitHub Token
-- [ ] Environments and Secrets
-- [ ] Staged deployments with environments, approvals, and deployment gates
+- [x] Introduction
+- [x] Actions for CI/CD
+- [x] Permissions for GitHub Token
+- [x] Environments and Secrets
+- [x] Staged deployments with environments, approvals, and deployment gates
 - [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
 - [ ] :coffee: Break
 - [ ] Action policies
